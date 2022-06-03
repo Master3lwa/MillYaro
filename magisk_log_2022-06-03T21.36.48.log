@@ -1,0 +1,1040 @@
+---Detected Device Info---
+
+isAB=false
+isSAR=false
+ramdisk=true
+
+
+---System Properties---
+
+[af.music.outputid]: [3]
+[bgw.current3gband]: [0]
+[camera.disable_zsl_mode]: [1]
+[cdma.ril.ecclist]: []
+[cdma.ril.ecclist1]: []
+[dalvik.vm.appimageformat]: [lz4]
+[dalvik.vm.dex2oat-Xms]: [64m]
+[dalvik.vm.dex2oat-Xmx]: [512m]
+[dalvik.vm.heapgrowthlimit]: [216m]
+[dalvik.vm.heapmaxfree]: [8m]
+[dalvik.vm.heapminfree]: [4m]
+[dalvik.vm.heapsize]: [512m]
+[dalvik.vm.heapstartsize]: [16m]
+[dalvik.vm.heaptargetutilization]: [0.75]
+[dalvik.vm.image-dex2oat-Xms]: [64m]
+[dalvik.vm.image-dex2oat-Xmx]: [64m]
+[dalvik.vm.isa.arm.features]: [default]
+[dalvik.vm.isa.arm.variant]: [cortex-a53]
+[dalvik.vm.isa.arm64.features]: [default]
+[dalvik.vm.isa.arm64.variant]: [cortex-a53]
+[dalvik.vm.mtk-stack-trace-file]: [/data/anr/mtk_traces.txt]
+[dalvik.vm.stack-trace-file]: [/data/anr/traces.txt]
+[dalvik.vm.usejit]: [true]
+[dalvik.vm.usejitprofiles]: [true]
+[debug.MB.running]: [0]
+[debug.atrace.tags.enableflags]: [0]
+[debug.current.pkgname]: [com.topjohnwu.magisk]
+[debug.force_rtl]: [0]
+[debug.hwc.bq_count]: [4]
+[debug.hwc.compose_level]: [0]
+[debug.mdlogger.Running]: [0]
+[debug.mdlogger.log2sd.path]: [internal_sd]
+[debug.mtk.aee.reinit]: [done]
+[debug.mtk.aee.status]: [free]
+[debug.mtk.aee.status64]: [free]
+[debug.mtklog.netlog.Running]: [0]
+[debug.pq.dshp.en]: [2]
+[debug.pq.shp.en]: [2]
+[debug.sf.sfps]: [0]
+[dev.bootcomplete]: [1]
+[drm.service.enabled]: [true]
+[fmradio.driver.enable]: [1]
+[gsm.baseband.capability]: [1023]
+[gsm.current.phone-type]: [1,1]
+[gsm.gcf.testmode]: [0]
+[gsm.lte.ca.support]: [1]
+[gsm.network.type]: [Unknown,Unknown]
+[gsm.operator.alpha]: []
+[gsm.operator.alpha.2]: []
+[gsm.operator.iso-country]: []
+[gsm.operator.isroaming]: [false,false]
+[gsm.operator.numeric]: []
+[gsm.project.baseband]: [RLK6757_66_N(LWCTG_MP5)]
+[gsm.project.baseband.2]: [RLK6757_66_N(LWCTG_MP5)]
+[gsm.ril.ct3g]: [0]
+[gsm.ril.ct3g.2]: [0]
+[gsm.ril.eboot]: [-1]
+[gsm.ril.init]: [1]
+[gsm.ril.sst.mccmnc]: [60201]
+[gsm.ril.sst.mccmnc.2]: [60201]
+[gsm.ril.uicctype]: [USIM]
+[gsm.ril.uicctype.2]: [USIM]
+[gsm.serial]: []
+[gsm.sim.operator.alpha]: [Orange EG,Orange EG]
+[gsm.sim.operator.default-name]: [Orange EG,Orange EG]
+[gsm.sim.operator.imsi]: [602018506189652,602018589225519]
+[gsm.sim.operator.iso-country]: [eg,eg]
+[gsm.sim.operator.numeric]: [60201,60201]
+[gsm.sim.retry.pin1]: [3]
+[gsm.sim.retry.pin1.2]: [3]
+[gsm.sim.retry.pin2]: [3]
+[gsm.sim.retry.pin2.2]: [3]
+[gsm.sim.retry.puk1]: [10]
+[gsm.sim.retry.puk1.2]: [10]
+[gsm.sim.retry.puk2]: [10]
+[gsm.sim.retry.puk2.2]: [10]
+[gsm.sim.ril.mcc.mnc]: []
+[gsm.sim.ril.mcc.mnc.2]: []
+[gsm.sim.ril.phbready]: [true]
+[gsm.sim.ril.phbready.2]: [true]
+[gsm.sim.ril.testsim]: [0]
+[gsm.sim.ril.testsim.2]: [0]
+[gsm.sim.state]: [READY,READY]
+[gsm.version.baseband]: [MOLY.LR11.W1630.MD.MP.V20.P51, 2018/11/25 11:18]
+[gsm.version.baseband1]: [MOLY.LR11.W1630.MD.MP.V20.P51, 2018/11/25 11:18]
+[gsm.version.ril-impl]: [android reference-ril 1.0]
+[init.svc.CUG2H6ewAyOhI]: [stopped]
+[init.svc.DMAgent]: [running]
+[init.svc.GoogleOtaAgent]: [running]
+[init.svc.MPED]: [running]
+[init.svc.MtkCodecService]: [running]
+[init.svc.NvRAMAgent]: [running]
+[init.svc.PPLAgent]: [running]
+[init.svc.RHq5U8ePc]: [stopped]
+[init.svc.aal]: [running]
+[init.svc.agpsd]: [running]
+[init.svc.akmd09911]: [running]
+[init.svc.audioserver]: [running]
+[init.svc.batterywarning]: [running]
+[init.svc.bootanim]: [stopped]
+[init.svc.bootlogoupdater]: [stopped]
+[init.svc.cameraserver]: [running]
+[init.svc.ccci3_fsd]: [stopped]
+[init.svc.ccci3_mdinit]: [stopped]
+[init.svc.ccci_fsd]: [running]
+[init.svc.ccci_mdinit]: [running]
+[init.svc.debuggerd]: [running]
+[init.svc.debuggerd64]: [running]
+[init.svc.drm]: [running]
+[init.svc.emdlogger1]: [running]
+[init.svc.enableswap]: [stopped]
+[init.svc.epdg_wod]: [running]
+[init.svc.fingerprintd]: [running]
+[init.svc.fuelgauged]: [running]
+[init.svc.fuelgauged_nvram]: [stopped]
+[init.svc.gatekeeperd]: [running]
+[init.svc.ged_srv]: [running]
+[init.svc.gsm0710muxd]: [running]
+[init.svc.healthd]: [running]
+[init.svc.installd]: [running]
+[init.svc.ipsec_mon]: [running]
+[init.svc.keystore]: [running]
+[init.svc.lmkd]: [running]
+[init.svc.logd]: [running]
+[init.svc.logd-reinit]: [stopped]
+[init.svc.mal-daemon]: [running]
+[init.svc.media]: [running]
+[init.svc.mediacodec]: [running]
+[init.svc.mediadrm]: [running]
+[init.svc.mediaextractor]: [running]
+[init.svc.mlock]: [running]
+[init.svc.mnld]: [running]
+[init.svc.mobile_log_d]: [running]
+[init.svc.msensord]: [stopped]
+[init.svc.netd]: [running]
+[init.svc.netdiag]: [running]
+[init.svc.nvram_daemon]: [stopped]
+[init.svc.p2p_supplicant]: [running]
+[init.svc.pnpmgr]: [running]
+[init.svc.pq]: [running]
+[init.svc.program_binary]: [running]
+[init.svc.remosaic_daemon]: [running]
+[init.svc.ril-daemon-mtk]: [running]
+[init.svc.ril-proxy]: [running]
+[init.svc.servicemanager]: [running]
+[init.svc.slpd]: [running]
+[init.svc.sn]: [stopped]
+[init.svc.spm_script]: [stopped]
+[init.svc.surfaceflinger]: [running]
+[init.svc.sysenv_daemon]: [running]
+[init.svc.teei_daemon]: [running]
+[init.svc.terservice]: [stopped]
+[init.svc.thermal]: [running]
+[init.svc.thermal_manager]: [stopped]
+[init.svc.thermald]: [running]
+[init.svc.thermalloadalgod]: [running]
+[init.svc.ueventd]: [running]
+[init.svc.vold]: [running]
+[init.svc.volte_imcb]: [running]
+[init.svc.volte_stack]: [running]
+[init.svc.volte_ua]: [running]
+[init.svc.vtservice]: [running]
+[init.svc.wfca]: [running]
+[init.svc.wifi2agps]: [running]
+[init.svc.wmt_launcher]: [running]
+[init.svc.wmt_loader]: [stopped]
+[init.svc.zygote]: [running]
+[init.svc.zygote_secondary]: [running]
+[log.tag]: [I]
+[log.tag.WifiHW]: [W]
+[media.wfd.portrait]: [0]
+[media.wfd.video-format]: [7]
+[mediatek.wlan.chip]: [CONSYS_MT6757]
+[mediatek.wlan.ctia]: [0]
+[mediatek.wlan.module.postfix]: [_consys_mt6757]
+[mtk.eccci.c2k]: [enabled]
+[mtk.md1.status]: [ready]
+[mtk.vdec.waitkeyframeforplay]: [1]
+[mtk_wifi.fwpath]: [STA]
+[net.bt.name]: [Android]
+[net.change]: [net.dns1]
+[net.dns1]: [192.168.1.1]
+[net.handover.rat]: [0]
+[net.handover.thlte]: [-116,-111,-106]
+[net.hostname]: [android-aebbab5350be6bff]
+[net.ims.ipsec.version]: [2.0]
+[net.nsiot_pending]: [false]
+[net.perf.cpu.core]: [4,4,0,0]
+[net.perf.cpu.freq]: [1183000,1638000,0,0]
+[net.perf.rps]: [ff]
+[net.qtaguid_enabled]: [1]
+[net.tcp.default_init_rwnd]: [60]
+[persist.datashaping.alarmgroup]: [1]
+[persist.dev.pm.dyn_samplingrate]: [1]
+[persist.dm.lock]: [false]
+[persist.log.tag.AT]: [I]
+[persist.log.tag.AdnRecord]: [I]
+[persist.log.tag.AdnRecordCache]: [I]
+[persist.log.tag.AdnRecordLoader]: [I]
+[persist.log.tag.AirplaneHandler]: [I]
+[persist.log.tag.AutoRegSmsFwk]: [I]
+[persist.log.tag.C2K_RIL-DATA]: [I]
+[persist.log.tag.CdmaMoSms]: [I]
+[persist.log.tag.CdmaMtSms]: [I]
+[persist.log.tag.ConSmsFwkExt]: [I]
+[persist.log.tag.CountryDetector]: [I]
+[persist.log.tag.DC-1]: [I]
+[persist.log.tag.DC-2]: [I]
+[persist.log.tag.DCT]: [I]
+[persist.log.tag.DataDispatcher]: [I]
+[persist.log.tag.DataOnlySmsFwk]: [I]
+[persist.log.tag.DataSubSelector]: [I]
+[persist.log.tag.DcFcMgr]: [I]
+[persist.log.tag.DupSmsFilterExt]: [I]
+[persist.log.tag.ECCCallHelper]: [I]
+[persist.log.tag.ECCNumUtils]: [I]
+[persist.log.tag.ECCRetryHandler]: [I]
+[persist.log.tag.ECCRuleHandler]: [I]
+[persist.log.tag.ECCSwitchPhone]: [I]
+[persist.log.tag.GbaApp]: [I]
+[persist.log.tag.GbaBsfProcedure]: [I]
+[persist.log.tag.GbaBsfResponse]: [I]
+[persist.log.tag.GbaDebugParam]: [I]
+[persist.log.tag.GbaService]: [I]
+[persist.log.tag.GsmCdmaConn]: [I]
+[persist.log.tag.GsmCdmaPhone]: [I]
+[persist.log.tag.GsmConnection]: [I]
+[persist.log.tag.GsmMmiCode]: [I]
+[persist.log.tag.IMSRILRequest]: [I]
+[persist.log.tag.IMS_RILA]: [I]
+[persist.log.tag.IccCardProxy]: [I]
+[persist.log.tag.IccPhoneBookIM]: [I]
+[persist.log.tag.IccProvider]: [I]
+[persist.log.tag.ImsApp]: [I]
+[persist.log.tag.ImsBaseCommands]: [I]
+[persist.log.tag.ImsCall]: [I]
+[persist.log.tag.ImsCallProfile]: [I]
+[persist.log.tag.ImsCallSession]: [I]
+[persist.log.tag.ImsEcbm]: [I]
+[persist.log.tag.ImsEcbmProxy]: [I]
+[persist.log.tag.ImsManager]: [I]
+[persist.log.tag.ImsPhone]: [I]
+[persist.log.tag.ImsPhoneBase]: [I]
+[persist.log.tag.ImsPhoneCall]: [I]
+[persist.log.tag.ImsService]: [I]
+[persist.log.tag.ImsUt]: [I]
+[persist.log.tag.ImsUtService]: [I]
+[persist.log.tag.ImsVTProvider]: [I]
+[persist.log.tag.IsimFileHandler]: [I]
+[persist.log.tag.IsimRecords]: [I]
+[persist.log.tag.MtkAgpsHelper]: [I]
+[persist.log.tag.NetworkPolicy]: [I]
+[persist.log.tag.NetworkStats]: [I]
+[persist.log.tag.OperatorUtils]: [I]
+[persist.log.tag.Phone]: [I]
+[persist.log.tag.PhoneFactory]: [I]
+[persist.log.tag.ProxyController]: [I]
+[persist.log.tag.RFX]: [I]
+[persist.log.tag.RIL]: [I]
+[persist.log.tag.RIL-CC]: [I]
+[persist.log.tag.RIL-DATA]: [I]
+[persist.log.tag.RIL-OEM]: [I]
+[persist.log.tag.RIL-PHB]: [I]
+[persist.log.tag.RIL-RP]: [I]
+[persist.log.tag.RIL-SIM]: [I]
+[persist.log.tag.RIL-SMS]: [I]
+[persist.log.tag.RIL-SS]: [I]
+[persist.log.tag.RILC]: [I]
+[persist.log.tag.RILC-MTK]: [I]
+[persist.log.tag.RILC-RP]: [I]
+[persist.log.tag.RILD]: [I]
+[persist.log.tag.RILMD2-SS]: [I]
+[persist.log.tag.RILMUXD]: [I]
+[persist.log.tag.RIL_Mux]: [I]
+[persist.log.tag.RIL_UIM_SOCKET]: [I]
+[persist.log.tag.RadioManager]: [I]
+[persist.log.tag.RetryManager]: [I]
+[persist.log.tag.RfxAction]: [I]
+[persist.log.tag.RfxController]: [I]
+[persist.log.tag.RfxDT]: [I]
+[persist.log.tag.RfxDebugInfo]: [I]
+[persist.log.tag.RfxDefDestUtils]: [I]
+[persist.log.tag.RfxMainThread]: [I]
+[persist.log.tag.RfxMessage]: [I]
+[persist.log.tag.RfxObject]: [I]
+[persist.log.tag.RfxRilAdapter]: [I]
+[persist.log.tag.RfxRoot]: [I]
+[persist.log.tag.RfxSM]: [I]
+[persist.log.tag.RfxSocketSM]: [I]
+[persist.log.tag.RfxTimer]: [I]
+[persist.log.tag.RpAudioControl]: [I]
+[persist.log.tag.RpCallControl]: [I]
+[persist.log.tag.RpCdmaOemCtrl]: [I]
+[persist.log.tag.RpCdmaRadioCtrl]: [I]
+[persist.log.tag.RpFOUtils]: [I]
+[persist.log.tag.RpMDCtrl]: [I]
+[persist.log.tag.RpModemMessage]: [I]
+[persist.log.tag.RpRadioCtrl]: [I]
+[persist.log.tag.RpRadioMessage]: [I]
+[persist.log.tag.RpSsController]: [I]
+[persist.log.tag.SIMRecords]: [I]
+[persist.log.tag.SSDecisonMaker]: [I]
+[persist.log.tag.SimservType]: [I]
+[persist.log.tag.SimservsTest]: [I]
+[persist.log.tag.SlotQueueEntry]: [I]
+[persist.log.tag.SmsPlusCode]: [I]
+[persist.log.tag.SpnOverride]: [I]
+[persist.log.tag.SresResponse]: [I]
+[persist.log.tag.SuppMsgMgr]: [I]
+[persist.log.tag.SuppSrvConfig]: [I]
+[persist.log.tag.TeleConfCtrler]: [I]
+[persist.log.tag.TeleConnService]: [I]
+[persist.log.tag.TelephonyConf]: [I]
+[persist.log.tag.TelephonyConn]: [I]
+[persist.log.tag.UiccCard]: [I]
+[persist.log.tag.UiccController]: [I]
+[persist.log.tag.VT]: [I]
+[persist.log.tag.WfoApp]: [I]
+[persist.log.tag.tel_log_ctrl]: [1]
+[persist.logd.size]: []
+[persist.meta.dumpdata]: [0]
+[persist.midtest.ps.noise.max]: [100]
+[persist.midtest.ps.noise.min]: [0]
+[persist.mtk.connsys.poweron.ctl]: [0]
+[persist.mtk.datashaping.support]: [1]
+[persist.mtk.ims.video.enable]: [0]
+[persist.mtk.volte.enable]: [1]
+[persist.mtk.wcn.combo.chipid]: [0x6757]
+[persist.mtk.wcn.dynamic.dump]: [0]
+[persist.mtk.wcn.patch.version]: [20170801170148a]
+[persist.mtk.wfc.enable]: [1]
+[persist.mtk_dynamic_ims_switch]: [0]
+[persist.mtk_epdg_support]: [1]
+[persist.mtk_ims_support]: [1]
+[persist.mtk_nlp_switch_support]: [1]
+[persist.mtk_ussi_support]: [1]
+[persist.mtk_vilte_support]: [1]
+[persist.mtk_volte_support]: [1]
+[persist.mtk_wfc_support]: [1]
+[persist.radio.airplane.mode.on]: [false]
+[persist.radio.cfu.change.0]: [0]
+[persist.radio.cfu.change.1]: [0]
+[persist.radio.cfu.iccid.0]: [8920018517061896522f]
+[persist.radio.cfu.iccid.1]: [8920018520892255199f]
+[persist.radio.cfu.timeslot.0]: []
+[persist.radio.cfu.timeslot.1]: []
+[persist.radio.data.iccid]: [8920018517061896522f]
+[persist.radio.default.sim]: [0]
+[persist.radio.fd.counter]: [150]
+[persist.radio.fd.off.counter]: [50]
+[persist.radio.fd.off.r8.counter]: [50]
+[persist.radio.fd.r8.counter]: [150]
+[persist.radio.ia]: [8920018517061896522f,IP,-1,,0,IP]
+[persist.radio.ia-apn]: [orangeweb]
+[persist.radio.ia-pwd-flag]: [0]
+[persist.radio.lte.chip]: [1]
+[persist.radio.mobile.data]: [0,0]
+[persist.radio.mtk_dsbp_support]: [1]
+[persist.radio.mtk_ps2_rat]: [W/G]
+[persist.radio.mtk_ps3_rat]: [G]
+[persist.radio.multisim.config]: [dsds]
+[persist.radio.new.sim.slot]: []
+[persist.radio.nitz_oper_code]: [60201,60201]
+[persist.radio.nitz_oper_lname]: [Orange - STAY SAFE,Orange - STAY SAFE]
+[persist.radio.nitz_oper_sname]: [Orange - STAY SAFE,Orange - STAY SAFE]
+[persist.radio.re.ia-apn]: []
+[persist.radio.re.ia.flag]: [0]
+[persist.radio.reset_on_switch]: [false]
+[persist.radio.sim.sbp]: [3]
+[persist.radio.sim.status]: []
+[persist.radio.simswitch]: [1]
+[persist.radio.simswitch.iccid]: [8920018517061896522f]
+[persist.radio.terminal-based.cw]: [disabled_tbcw,disabled_tbcw]
+[persist.radio.unlock]: [false]
+[persist.radio.ut.cfu.mode]: [enabled_ut_cfu_mode_off,enabled_ut_cfu_mode_off]
+[persist.service.acm.enable]: [0]
+[persist.service.bdroid.bdaddr]: [22:22:34:f4:f9:2a]
+[persist.service.bdroid.vol]: [1]
+[persist.service.stk.shutdown]: [0]
+[persist.sys.NV_FPSLIMIT]: [144]
+[persist.sys.NV_POWERMODE]: [1]
+[persist.sys.NV_PROFVER]: [15]
+[persist.sys.NV_STEREOCTRL]: [0]
+[persist.sys.NV_STEREOSEP]: [20]
+[persist.sys.NV_STEREOSEPCHG]: [0]
+[persist.sys.UserApp]: [true]
+[persist.sys.aal.function]: [6]
+[persist.sys.bluelight.default]: [128]
+[persist.sys.bluelight.strength]: [128]
+[persist.sys.bootpackage]: [1]
+[persist.sys.composition.type]: [c2d]
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+[persist.sys.egl.swapinterval]: [1]
+[persist.sys.first_time_boot]: [false]
+[persist.sys.force_sw_gles]: [1]
+[persist.sys.gamma.index]: [7]
+[persist.sys.locale]: [en-US]
+[persist.sys.mute.state]: [2]
+[persist.sys.oobe_country]: [ready]
+[persist.sys.pq.adl.idx]: [0
+]
+[persist.sys.pq.brightidx]: [4
+]
+[persist.sys.pq.contrastidx]: [4
+]
+[persist.sys.pq.gsatidx]: [4
+]
+[persist.sys.pq.iso.shp.en]: [2]
+[persist.sys.pq.log.en]: [0]
+[persist.sys.pq.mdp.color.dbg]: [1]
+[persist.sys.pq.mdp.color.idx]: [0]
+[persist.sys.pq.picmode]: [0
+]
+[persist.sys.pq.shp.idx]: [2
+]
+[persist.sys.pq.ultrares.en]: [2]
+[persist.sys.profiler_ms]: [0]
+[persist.sys.purgeable_assets]: [1]
+[persist.sys.sd.defaultpath]: [/storage/emulated/0]
+[persist.sys.strictmode.visual]: []
+[persist.sys.sw.enroll.double]: [100]
+[persist.sys.sw.enroll.frm.num]: [14]
+[persist.sys.sw.enroll.percent]: [1]
+[persist.sys.sw.idh.nums]: [1]
+[persist.sys.sw.key.mod]: [2]
+[persist.sys.sw.msg.base]: [1100]
+[persist.sys.sw.transsion.f14]: [1]
+[persist.sys.sw.verify.retry]: [5]
+[persist.sys.timezone]: [Africa/Cairo]
+[persist.sys.ui.hw]: [false]
+[persist.sys.usb.config]: [mtp]
+[persist.sys.use_16bpp_alpha]: [1]
+[persist.sys.use_dithering]: [1]
+[persist.sys.view.gpower]: [true]
+[persist.sys.webview.vmsize]: [199952320]
+[persist.xload.auto_load]: [true]
+[pm.dexopt.ab-ota]: [speed-profile]
+[pm.dexopt.bg-dexopt]: [speed-profile]
+[pm.dexopt.boot]: [speed]
+[pm.dexopt.core-app]: [speed]
+[pm.dexopt.first-boot]: [interpret-only]
+[pm.dexopt.forced-dexopt]: [speed]
+[pm.dexopt.install]: [speed]
+[pm.dexopt.nsys-library]: [speed]
+[pm.dexopt.shared-apk]: [speed]
+[qemu.hw.mainkeys]: [0]
+[ril.active.md]: [9]
+[ril.apc.support]: [1]
+[ril.attach.sim]: [0]
+[ril.c2kirat.ia]: [8920018517061896522f,orangeweb]
+[ril.cdma.card.type.1]: []
+[ril.cdma.card.type.2]: []
+[ril.cdma.switching]: [0]
+[ril.ecclist]: [;112,0;911,0]
+[ril.ecclist1]: [;112,0;911,0]
+[ril.external.md]: [0]
+[ril.fd.mode]: [1]
+[ril.first.md]: [1]
+[ril.flightmode.poweroffMD]: [0]
+[ril.iccid.sim1]: [8920018517061896522f]
+[ril.iccid.sim2]: [8920018520892255199f]
+[ril.imsi.status.sim1]: [1]
+[ril.imsi.status.sim2]: [1]
+[ril.ipo.radiooff]: [0]
+[ril.ipo.radiooff.2]: [0]
+[ril.mal.flag]: [0]
+[ril.mal.socket]: [rilproxy-mal]
+[ril.mux.ee.md1]: [0]
+[ril.mux.report.case]: [0]
+[ril.nw.erat.ext.support]: [1]
+[ril.nw.worldmode.activemode]: [1]
+[ril.nw.worldmode.keep_3g_mode]: [0]
+[ril.pdn.reuse]: [1]
+[ril.phone1.mapped.md]: [MD1]
+[ril.pid.1]: [1713]
+[ril.radiooff.poweroffMD]: [0]
+[ril.read.imsi]: [1]
+[ril.ready.sim]: [true]
+[ril.rilproxy]: [1]
+[ril.specific.sm_cause]: [0]
+[ril.telephony.mode]: [0]
+[ril.uim.subscriberid.1]: []
+[ril.uim.subscriberid.2]: []
+[ril.volte.mal.latency]: [65535]
+[ril.volte.mal.opkey]: [0x0001]
+[ril.volte.mal.pkterrth]: [99]
+[ril.volte.mal.rb_hoddc_t]: [3]
+[ril.volte.mal.rb_hol2w_t]: [10]
+[ril.volte.mal.rb_how2l_t]: [150]
+[ril.volte.mal.retranth]: [99]
+[ril.volte.mal.throupt]: [65535]
+[ril.volte.mal.vijit]: [3]
+[ril.volte.mal.vojit]: [26]
+[rild.libargs]: [-d /dev/ttyC0]
+[rild.libpath]: [mtk-ril.so]
+[rild.mark_switchuser]: [0]
+[ro.action_support]: [1]
+[ro.adb.secure]: [1]
+[ro.aee.enforcing]: [no]
+[ro.aee.enperf]: [off]
+[ro.allow.mock.location]: [0]
+[ro.arcsoft.burst]: [1]
+[ro.audio.silent]: [0]
+[ro.baseband]: [unknown]
+[ro.board.platform]: [mt6757]
+[ro.boot.bootreason]: [power_key]
+[ro.boot.flash.locked]: [1]
+[ro.boot.hardware]: [mt6757]
+[ro.boot.mode]: [normal]
+[ro.boot.opt_c2k_lte_mode]: [0]
+[ro.boot.opt_c2k_support]: [0]
+[ro.boot.opt_eccci_c2k]: [1]
+[ro.boot.opt_irat_support]: [0]
+[ro.boot.opt_lte_support]: [1]
+[ro.boot.opt_md1_support]: [9]
+[ro.boot.opt_md3_support]: [0]
+[ro.boot.opt_ps1_rat]: [Lf/Lt/W/G]
+[ro.boot.opt_using_default]: [1]
+[ro.boot.serialno]: [H575X60301234567]
+[ro.boot.verifiedbootstate]: [green]
+[ro.bootimage.build.date]: [Mon Jun 10 20:01:47 CST 2019]
+[ro.bootimage.build.date.utc]: [1560168107]
+[ro.bootimage.build.fingerprint]: [Infinix/full_rlk6757_66_n/rlk6757_66_n:7.0/NRD90M/1560168117:user/release-keys]
+[ro.bootloader]: [unknown]
+[ro.bootmode]: [normal]
+[ro.build.characteristics]: [default]
+[ro.build.date]: [Mon Jun 10 20:01:47 CST 2019]
+[ro.build.date.utc]: [1560168107]
+[ro.build.description]: [full_rlk6757_66_n-user 7.0 NRD90M 1560168117 release-keys]
+[ro.build.display.id]: [X603-H575A-N-IN-190610V247]
+[ro.build.fingerprint]: [Infinix/H575/Infinix-X603:7.0/NRD90M/X603-H575A-N-IN-190610V247:user/release-keys]
+[ro.build.flavor]: [full_rlk6757_66_n-user]
+[ro.build.host]: [buildsrv-50]
+[ro.build.id]: [NRD90M]
+[ro.build.product]: [rlk6757_66_n]
+[ro.build.tags]: [release-keys]
+[ro.build.type]: [user]
+[ro.build.user]: [rlk-buildsrv36]
+[ro.build.version.all_codenames]: [REL]
+[ro.build.version.base_os]: []
+[ro.build.version.codename]: [REL]
+[ro.build.version.incremental]: [X603-H575A-N-IN-190610V247]
+[ro.build.version.preview_sdk]: [0]
+[ro.build.version.release]: [7.0]
+[ro.build.version.sdk]: [24]
+[ro.build.version.security_patch]: [2019-04-05]
+[ro.camera.sound.forced]: [0]
+[ro.carrier]: [unknown]
+[ro.com.android.mobiledata]: [false]
+[ro.com.google.clientidbase]: [android-transsion]
+[ro.com.google.gmsversion]: [7.0_201803]
+[ro.config.alarm_alert]: [Sky.ogg]
+[ro.config.notification_sound]: [Infinix_XUI_SMS.ogg]
+[ro.config.ringtone]: [Landscape.ogg]
+[ro.crypto.state]: [unsupported]
+[ro.cy_himgr_style]: [0]
+[ro.cy_himgr_support]: [1]
+[ro.dalvik.vm.native.bridge]: [0]
+[ro.debuggable]: [0]
+[ro.error.receiver.default]: [com.rlk.feedback]
+[ro.expect.recovery_id]: [0x8d642eb376720b14607ab82407a7c385fab92d3c000000000000000000000000]
+[ro.faceid.support]: [1]
+[ro.fingerprint_support]: [1]
+[ro.frp.pst]: [/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/frp]
+[ro.gesture_path]: [/proc/gesture_function]
+[ro.hardware]: [mt6757]
+[ro.have_aacencode_feature]: [1]
+[ro.have_aee_feature]: [1]
+[ro.india_sos_emergency_support]: [1]
+[ro.infinix.camera.colour]: [1]
+[ro.infinix.is_india]: [1]
+[ro.infinix_wakelock_screenon]: [1]
+[ro.kernel.zio]: [38,108,105,16]
+[ro.md.color.temp]: [1]
+[ro.md.dual.camera]: [1]
+[ro.md_gyroscope]: [1]
+[ro.md_pump_express]: [1]
+[ro.media.maxmem]: [500000000]
+[ro.mediatek.chip_ver]: [S01]
+[ro.mediatek.platform]: [MT6757]
+[ro.mediatek.project.path]: [device/reallytek/rlk6757_66_n]
+[ro.mediatek.user_agent]: [INFINIX-X603_X603-H575A-N-IN-190610V247]
+[ro.mediatek.version.branch]: [alps-mp-n0.mp5]
+[ro.mediatek.version.release]: [X603-H575A-N-IN-190610V247]
+[ro.mediatek.version.sdk]: [4]
+[ro.mediatek.wlan.p2p]: [1]
+[ro.mediatek.wlan.wsc]: [1]
+[ro.mount.fs]: [EXT4]
+[ro.mtk_aal_support]: [1]
+[ro.mtk_afw_support]: [1]
+[ro.mtk_agps_app]: [1]
+[ro.mtk_audio_tuning_tool_ver]: [V2.2]
+[ro.mtk_bg_power_saving_support]: [1]
+[ro.mtk_bg_power_saving_ui]: [1]
+[ro.mtk_bip_scws]: [1]
+[ro.mtk_blulight_def_support]: [1]
+[ro.mtk_bt_support]: [1]
+[ro.mtk_cam_dualzoom_support]: [1]
+[ro.mtk_cam_img_refocus_support]: [1]
+[ro.mtk_cam_lomo_support]: [1]
+[ro.mtk_cam_mfb_support]: [3]
+[ro.mtk_cta_drm_support]: [1]
+[ro.mtk_cta_set]: [1]
+[ro.mtk_deinterlace_support]: [1]
+[ro.mtk_dhcpv6c_wifi]: [1]
+[ro.mtk_dialer_search_support]: [1]
+[ro.mtk_dual_mic_support]: [0]
+[ro.mtk_eap_sim_aka]: [1]
+[ro.mtk_emmc_support]: [1]
+[ro.mtk_enable_md1]: [1]
+[ro.mtk_external_sim_only_slots]: [0]
+[ro.mtk_external_sim_support]: [1]
+[ro.mtk_fd_support]: [1]
+[ro.mtk_gps_support]: [1]
+[ro.mtk_is_tablet]: [0]
+[ro.mtk_log_hide_gps]: [0]
+[ro.mtk_lte_support]: [1]
+[ro.mtk_md_sbp_custom_value]: [0]
+[ro.mtk_md_world_mode_support]: [1]
+[ro.mtk_microtrust_tee_support]: [1]
+[ro.mtk_miravision_support]: [1]
+[ro.mtk_modem_monitor_support]: [1]
+[ro.mtk_multiple_ims_support]: [1]
+[ro.mtk_oma_drm_support]: [1]
+[ro.mtk_omacp_support]: [1]
+[ro.mtk_perf_fast_start_win]: [1]
+[ro.mtk_perf_response_time]: [1]
+[ro.mtk_perf_simple_start_win]: [1]
+[ro.mtk_perfservice_support]: [1]
+[ro.mtk_pow_perf_support]: [1]
+[ro.mtk_pps_support]: [1]
+[ro.mtk_pq_color_mode]: [1]
+[ro.mtk_pq_support]: [2]
+[ro.mtk_privacy_protection_lock]: [1]
+[ro.mtk_protocol1_rat_config]: [Lf/Lt/W/G]
+[ro.mtk_rild_read_imsi]: [1]
+[ro.mtk_search_db_support]: [1]
+[ro.mtk_send_rr_support]: [1]
+[ro.mtk_shared_sdcard]: [1]
+[ro.mtk_show_msensor_toast]: [1]
+[ro.mtk_sim_hot_swap]: [1]
+[ro.mtk_sim_hot_swap_common_slot]: [1]
+[ro.mtk_system_update_support]: [1]
+[ro.mtk_tetheringipv6_support]: [1]
+[ro.mtk_vilte_ut_support]: [0]
+[ro.mtk_wapi_support]: [1]
+[ro.mtk_wappush_support]: [1]
+[ro.mtk_wfd_sink_support]: [1]
+[ro.mtk_wfd_sink_uibc_support]: [1]
+[ro.mtk_wfd_support]: [1]
+[ro.mtk_widevine_drm_l3_support]: [1]
+[ro.mtk_wifi_mcc_support]: [1]
+[ro.mtk_wlan_support]: [1]
+[ro.mtk_world_phone_policy]: [0]
+[ro.mtk_zsdhdr_support]: [1]
+[ro.num_md_protocol]: [2]
+[ro.oem_unlock_supported]: [1]
+[ro.opengles.version]: [196610]
+[ro.os_auto_unlock_support]: [1]
+[ro.os_camera_front]: [16M]
+[ro.os_camera_rear]: [12M+13M]
+[ro.os_cpu_freq]: [2.6]
+[ro.os_mgz_keyguard_support]: [1]
+[ro.os_nav_gesture_support]: [1]
+[ro.os_new_led_support]: [1]
+[ro.os_otg_no_charge]: [1]
+[ro.os_quick_charge]: [yes]
+[ro.os_screen_height]: [1920]
+[ro.os_screen_size]: [5.98]
+[ro.os_screen_width]: [1080]
+[ro.os_security_question_support]: [1]
+[ro.os_switch_lockscreen_support]: [1]
+[ro.pnpmgr.support]: [1]
+[ro.power_save_support]: [1]
+[ro.power_support]: [1]
+[ro.proc_mgr.clean]: [true]
+[ro.proc_mgr.sleepclean]: [true]
+[ro.proc_mgr.start]: [true]
+[ro.proc_mgr.support]: [true]
+[ro.product.board]: []
+[ro.product.brand]: [Infinix]
+[ro.product.cpu.abi]: [arm64-v8a]
+[ro.product.cpu.abilist]: [arm64-v8a,armeabi-v7a,armeabi]
+[ro.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.product.cpu.abilist64]: [arm64-v8a]
+[ro.product.device]: [Infinix-X603]
+[ro.product.first_api_level]: [24]
+[ro.product.locale]: [en-US]
+[ro.product.manufacturer]: [Infinix]
+[ro.product.model]: [Infinix X603]
+[ro.product.name]: [H575]
+[ro.product.rlk_default_in]: [not_in]
+[ro.proinfo.activationstatus]: [950]
+[ro.proinfo.activationtime]: [946]
+[ro.proinfo.demophone]: [945]
+[ro.proinfo.lid]: [61]
+[ro.proinfo.midtest]: [952]
+[ro.proinfo.usbdebug]: [951]
+[ro.pumpexpression_path]: [/sys/devices/platform/charger/Pump_Express]
+[ro.recovery_id]: [0x97fe680e931bae0b581f4ef76cf883a32db19d4f000000000000000000000000]
+[ro.revision]: [0]
+[ro.rlk.fingerprint]: [Infinix/H575/Infinix-X603:7.0/NRD90M/X603-H575A-N-IN-190610V247:user/release-keys]
+[ro.rlk.led_switch]: [1]
+[ro.rlk.projectname]: [x603_h575_a_in]
+[ro.rlk.smartpa]: [1]
+[ro.rlk.versionnumber]: [X603-H575A-N-IN-190610V247]
+[ro.rlk.xos.patch.id]: [XOSP64-V4.0Elite-P2-190514]
+[ro.rlk_hall_height]: [1964]
+[ro.rlk_hall_style]: [3]
+[ro.rlk_hall_support]: [1]
+[ro.rlk_hall_width]: [1080]
+[ro.rlk_led_light]: [1]
+[ro.rlk_project]: [x603]
+[ro.rlk_remove_wakelock_support]: [1]
+[ro.rlk_single_hand_mode_support]: [1]
+[ro.runtime.firstboot]: [1654283314760]
+[ro.scrollshot_support]: [1]
+[ro.secure]: [1]
+[ro.serialno]: [H575X60301234567]
+[ro.setupwizard.mode]: [OPTIONAL]
+[ro.sf.hwrotation]: [0]
+[ro.sf.lcd_density]: [480]
+[ro.sim_me_lock_mode]: [0]
+[ro.sim_refresh_reset_by_modem]: [1]
+[ro.sleep_master]: [1]
+[ro.sync_heartbeat_support]: [1]
+[ro.sys.hall.support]: [1]
+[ro.sys.sdcardfs]: [1]
+[ro.sys.usb.bicr]: [no]
+[ro.sys.usb.charging.only]: [yes]
+[ro.sys.usb.mtp.whql.enable]: [0]
+[ro.sys.usb.storage.type]: [mtp]
+[ro.systemui_single_hand_support]: [1]
+[ro.telephony.default_network]: [9,9]
+[ro.telephony.sim.count]: [2]
+[ro.thirdcamera.supported]: [1]
+[ro.transsion.os.name]: [Honeybee]
+[ro.view.dropframe]: [false]
+[ro.wifi.channels]: []
+[ro.wlan.mtk.wifi.5g]: [1]
+[ro.wland.oem]: [rlk]
+[ro.wland.platform]: [MTK]
+[ro.wland.version]: [X603-H575A-N-IN-190610V247]
+[ro.xhide_support]: [1]
+[ro.xmusic_support]: [1]
+[ro.xos.systemui3_0]: [1]
+[ro.xos_scrollshot_support]: [1]
+[ro.xos_three_screenshot_support]: [1]
+[ro.xoslauncher_support]: [1]
+[ro.xsecurity_support]: [1]
+[ro.xui.display.id]: [v4.0Elite]
+[ro.zygote]: [zygote64_32]
+[ro.zygote.preload.enable]: [0]
+[security.perf_harden]: [1]
+[selinux.reload_policy]: [1]
+[service.bootanim.exit]: [1]
+[service.nvram_init]: [Ready]
+[service.wcn.coredump.mode]: [0]
+[service.wcn.driver.ready]: [yes]
+[soter.encrypt.state]: [OK]
+[soter.teei.init]: [INIT_OK]
+[sys.boot.reason]: [0]
+[sys.boot_completed]: [1]
+[sys.ipo.pwrdncap]: [2]
+[sys.ipowin.done]: [1]
+[sys.lowstorage_flag]: [0]
+[sys.oem_unlock_allowed]: [0]
+[sys.single.hand.mode.delta.h]: [277]
+[sys.single.hand.mode.delta.w]: [156]
+[sys.single.hand.mode.state]: [0]
+[sys.sysctl.extra_free_kbytes]: [24300]
+[sys.sysctl.tcp_def_init_rwnd]: [60]
+[sys.usb.config]: [mtp]
+[sys.usb.configfs]: [0]
+[sys.usb.state]: [mtp]
+[sys.usb.vid]: [0E8D]
+[transsion.device.name]: [Infinix Zero 5]
+[vold.emmc_size]: [62537072640]
+[vold.has_adoptable]: [1]
+[vold.path.external_sd]: [/storage/0D2E-0768]
+[vold.path.internal_storage]: [/storage/emulated/0]
+[vold.post_fs_data_done]: [1]
+[vold.support_external_sd]: [1]
+[wfd.dummy.enable]: [1]
+[wfd.iframesize.level]: [0]
+[wifi.direct.interface]: [p2p0]
+[wifi.interface]: [wlan0]
+[wifi.tethering.interface]: [ap0]
+[wlan.daemon.switch]: [1]
+[wlan.driver.status]: [ok]
+[wlan.wfd.security.image]: [1]
+
+
+---System MountInfo---
+
+7405 7405 0:1 / / ro master:1 - rootfs rootfs ro,seclabel
+7406 7405 0:15 / /dev rw,nosuid,relatime master:3 - tmpfs tmpfs rw,seclabel,mode=755
+7407 7406 0:12 / /dev/pts rw,relatime master:4 - devpts devpts rw,seclabel,mode=600
+7408 7406 0:20 / /dev/cpuctl rw,relatime master:5 - cgroup none rw,cpu
+7409 7406 0:21 / /dev/cpuset rw,relatime master:6 - cgroup none rw,cpuset,noprefix,release_agent=/sbin/cpuset_release_agent
+7410 7406 0:23 / /dev/blkio rw,relatime master:7 - cgroup none rw,blkio
+7411 7406 0:24 / /dev/usb-ffs/adb rw,relatime master:8 - functionfs adb rw
+7412 7405 0:4 / /proc rw,relatime master:9 - proc proc rw,gid=3009,hidepid=2
+7413 7405 0:17 / /sys rw,relatime master:10 - sysfs sysfs rw,seclabel
+7414 7413 0:14 / /sys/fs/selinux rw,relatime master:11 - selinuxfs selinuxfs rw
+7415 7413 0:6 / /sys/kernel/debug rw,relatime master:12 - debugfs debugfs rw,seclabel
+7416 7415 0:8 / /sys/kernel/debug/tracing rw,relatime master:13 - tracefs tracefs rw,seclabel
+7417 7413 0:22 / /sys/fs/pstore rw,relatime master:14 - pstore pstore rw,seclabel
+7418 7405 0:18 / /acct rw,relatime master:15 - cgroup none rw,cpuacct
+7419 7405 0:19 / /mnt rw,relatime master:16 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+7420 7419 0:27 / /mnt/runtime/default/emulated rw,nosuid,nodev,noexec,noatime master:29 - sdcardfs /data/media rw,uid=1023,gid=1023,multiuser
+7421 7419 0:28 / /mnt/runtime/read/emulated rw,nosuid,nodev,noexec,noatime master:30 - sdcardfs /data/media rw,uid=1023,gid=1023,multiuser
+7422 7419 0:29 / /mnt/runtime/write/emulated rw,nosuid,nodev,noexec,noatime master:31 - sdcardfs /data/media rw,uid=1023,gid=1023,multiuser
+7423 7419 179:129 / /mnt/media_rw/0D2E-0768 rw,nosuid,nodev,noexec,relatime master:32 - vfat /dev/block/vold/public:179,129 rw,dirsync,uid=1023,gid=1023,fmask=0007,dmask=0007,allow_utime=0020,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro
+7424 7419 0:30 / /mnt/runtime/default/0D2E-0768 rw,nosuid,nodev,noexec,noatime master:33 - sdcardfs /mnt/media_rw/0D2E-0768 rw,uid=1023,gid=1023
+7425 7419 0:31 / /mnt/runtime/read/0D2E-0768 rw,nosuid,nodev,noexec,noatime master:34 - sdcardfs /mnt/media_rw/0D2E-0768 rw,uid=1023,gid=1023
+7426 7419 0:32 / /mnt/runtime/write/0D2E-0768 rw,nosuid,nodev,noexec,noatime master:35 - sdcardfs /mnt/media_rw/0D2E-0768 rw,uid=1023,gid=1023
+7427 7405 0:13 / /config rw,relatime master:17 - configfs none rw
+7428 7405 179:25 / /system ro,relatime master:18 - ext4 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/system ro,seclabel,data=ordered
+7429 7428 179:27 /adb/modules/arabic-fonts-magisk/system/etc/fonts.xml /system/etc/fonts.xml rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7430 7428 0:25 / /system/fonts rw,relatime master:27 - tmpfs tmpfs rw,seclabel
+7431 7430 179:25 /fonts/AndroidClock.ttf /system/fonts/AndroidClock.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7432 7430 179:25 /fonts/CarroisGothicSC-Regular.ttf /system/fonts/CarroisGothicSC-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7433 7430 179:25 /fonts/ComingSoon.ttf /system/fonts/ComingSoon.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7434 7430 179:25 /fonts/CutiveMono.ttf /system/fonts/CutiveMono.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7435 7430 179:25 /fonts/DancingScript-Bold.ttf /system/fonts/DancingScript-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7436 7430 179:25 /fonts/DancingScript-Regular.ttf /system/fonts/DancingScript-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7437 7430 179:25 /fonts/DroidSansMono.ttf /system/fonts/DroidSansMono.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7438 7430 179:27 /adb/modules/arabic-fonts-magisk/system/fonts/GS45_Arab_AndroidOS.ttf /system/fonts/GS45_Arab_AndroidOS.ttf rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7439 7430 179:25 /fonts/NotoColorEmoji.ttf /system/fonts/NotoColorEmoji.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7440 7430 179:27 /adb/modules/arabic-fonts-magisk/system/fonts/NotoNaskhArabic-Bold.ttf /system/fonts/NotoNaskhArabic-Bold.ttf rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7441 7430 179:27 /adb/modules/arabic-fonts-magisk/system/fonts/NotoNaskhArabic-Regular.ttf /system/fonts/NotoNaskhArabic-Regular.ttf rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7442 7430 179:27 /adb/modules/arabic-fonts-magisk/system/fonts/NotoNaskhArabicUI-Bold.ttf /system/fonts/NotoNaskhArabicUI-Bold.ttf rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7443 7430 179:27 /adb/modules/arabic-fonts-magisk/system/fonts/NotoNaskhArabicUI-Regular.ttf /system/fonts/NotoNaskhArabicUI-Regular.ttf rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7444 7430 179:25 /fonts/NotoSansArmenian-Bold.ttf /system/fonts/NotoSansArmenian-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7445 7430 179:25 /fonts/NotoSansArmenian-Regular.ttf /system/fonts/NotoSansArmenian-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7446 7430 179:25 /fonts/NotoSansBalinese-Regular.ttf /system/fonts/NotoSansBalinese-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7447 7430 179:25 /fonts/NotoSansBamum-Regular.ttf /system/fonts/NotoSansBamum-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7448 7430 179:25 /fonts/NotoSansBatak-Regular.ttf /system/fonts/NotoSansBatak-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7449 7430 179:25 /fonts/NotoSansBengali-Bold.ttf /system/fonts/NotoSansBengali-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7450 7430 179:25 /fonts/NotoSansBengali-Regular.ttf /system/fonts/NotoSansBengali-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7451 7430 179:25 /fonts/NotoSansBengaliUI-Bold.ttf /system/fonts/NotoSansBengaliUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7452 7430 179:25 /fonts/NotoSansBengaliUI-Regular.ttf /system/fonts/NotoSansBengaliUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7453 7430 179:25 /fonts/NotoSansBuginese-Regular.ttf /system/fonts/NotoSansBuginese-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7454 7430 179:25 /fonts/NotoSansBuhid-Regular.ttf /system/fonts/NotoSansBuhid-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7455 7430 179:25 /fonts/NotoSansCJK-Regular.ttc /system/fonts/NotoSansCJK-Regular.ttc ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7456 7430 179:25 /fonts/NotoSansCanadianAboriginal-Regular.ttf /system/fonts/NotoSansCanadianAboriginal-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7457 7430 179:25 /fonts/NotoSansCham-Bold.ttf /system/fonts/NotoSansCham-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7458 7430 179:25 /fonts/NotoSansCham-Regular.ttf /system/fonts/NotoSansCham-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7459 7430 179:25 /fonts/NotoSansCherokee-Regular.ttf /system/fonts/NotoSansCherokee-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7460 7430 179:25 /fonts/NotoSansCoptic-Regular.ttf /system/fonts/NotoSansCoptic-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7461 7430 179:25 /fonts/NotoSansDevanagari-Bold.ttf /system/fonts/NotoSansDevanagari-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7462 7430 179:25 /fonts/NotoSansDevanagari-Regular.ttf /system/fonts/NotoSansDevanagari-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7463 7430 179:25 /fonts/NotoSansDevanagariUI-Bold.ttf /system/fonts/NotoSansDevanagariUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7464 7430 179:25 /fonts/NotoSansDevanagariUI-Regular.ttf /system/fonts/NotoSansDevanagariUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7465 7430 179:25 /fonts/NotoSansEthiopic-Bold.ttf /system/fonts/NotoSansEthiopic-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7466 7430 179:25 /fonts/NotoSansEthiopic-Regular.ttf /system/fonts/NotoSansEthiopic-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7467 7430 179:25 /fonts/NotoSansGeorgian-Bold.ttf /system/fonts/NotoSansGeorgian-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7468 7430 179:25 /fonts/NotoSansGeorgian-Regular.ttf /system/fonts/NotoSansGeorgian-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7469 7430 179:25 /fonts/NotoSansGlagolitic-Regular.ttf /system/fonts/NotoSansGlagolitic-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7470 7430 179:25 /fonts/NotoSansGujarati-Bold.ttf /system/fonts/NotoSansGujarati-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7471 7430 179:25 /fonts/NotoSansGujarati-Regular.ttf /system/fonts/NotoSansGujarati-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7472 7430 179:25 /fonts/NotoSansGujaratiUI-Bold.ttf /system/fonts/NotoSansGujaratiUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7473 7430 179:25 /fonts/NotoSansGujaratiUI-Regular.ttf /system/fonts/NotoSansGujaratiUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7474 7430 179:25 /fonts/NotoSansGurmukhi-Bold.ttf /system/fonts/NotoSansGurmukhi-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7475 7430 179:25 /fonts/NotoSansGurmukhi-Regular.ttf /system/fonts/NotoSansGurmukhi-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7476 7430 179:25 /fonts/NotoSansGurmukhiUI-Bold.ttf /system/fonts/NotoSansGurmukhiUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7477 7430 179:25 /fonts/NotoSansGurmukhiUI-Regular.ttf /system/fonts/NotoSansGurmukhiUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7478 7430 179:25 /fonts/NotoSansHanunoo-Regular.ttf /system/fonts/NotoSansHanunoo-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7479 7430 179:25 /fonts/NotoSansHebrew-Bold.ttf /system/fonts/NotoSansHebrew-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7480 7430 179:25 /fonts/NotoSansHebrew-Regular.ttf /system/fonts/NotoSansHebrew-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7481 7430 179:25 /fonts/NotoSansJavanese-Regular.ttf /system/fonts/NotoSansJavanese-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7482 7430 179:25 /fonts/NotoSansKannada-Bold.ttf /system/fonts/NotoSansKannada-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7483 7430 179:25 /fonts/NotoSansKannada-Regular.ttf /system/fonts/NotoSansKannada-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7484 7430 179:25 /fonts/NotoSansKannadaUI-Bold.ttf /system/fonts/NotoSansKannadaUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7485 7430 179:25 /fonts/NotoSansKannadaUI-Regular.ttf /system/fonts/NotoSansKannadaUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7486 7430 179:25 /fonts/NotoSansKayahLi-Regular.ttf /system/fonts/NotoSansKayahLi-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7487 7430 179:25 /fonts/NotoSansKhmer-Bold.ttf /system/fonts/NotoSansKhmer-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7488 7430 179:25 /fonts/NotoSansKhmer-Regular.ttf /system/fonts/NotoSansKhmer-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7489 7430 179:25 /fonts/NotoSansKhmerUI-Bold.ttf /system/fonts/NotoSansKhmerUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7490 7430 179:25 /fonts/NotoSansKhmerUI-Regular.ttf /system/fonts/NotoSansKhmerUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7491 7430 179:25 /fonts/NotoSansLao-Bold.ttf /system/fonts/NotoSansLao-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7492 7430 179:25 /fonts/NotoSansLao-Regular.ttf /system/fonts/NotoSansLao-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7493 7430 179:25 /fonts/NotoSansLaoUI-Bold.ttf /system/fonts/NotoSansLaoUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7494 7430 179:25 /fonts/NotoSansLaoUI-Regular.ttf /system/fonts/NotoSansLaoUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7495 7430 179:25 /fonts/NotoSansLepcha-Regular.ttf /system/fonts/NotoSansLepcha-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7496 7430 179:25 /fonts/NotoSansLimbu-Regular.ttf /system/fonts/NotoSansLimbu-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7497 7430 179:25 /fonts/NotoSansLisu-Regular.ttf /system/fonts/NotoSansLisu-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7498 7430 179:25 /fonts/NotoSansMalayalam-Bold.ttf /system/fonts/NotoSansMalayalam-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7499 7430 179:25 /fonts/NotoSansMalayalam-Regular.ttf /system/fonts/NotoSansMalayalam-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7500 7430 179:25 /fonts/NotoSansMalayalamUI-Bold.ttf /system/fonts/NotoSansMalayalamUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7501 7430 179:25 /fonts/NotoSansMalayalamUI-Regular.ttf /system/fonts/NotoSansMalayalamUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7502 7430 179:25 /fonts/NotoSansMandaic-Regular.ttf /system/fonts/NotoSansMandaic-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7503 7430 179:25 /fonts/NotoSansMeeteiMayek-Regular.ttf /system/fonts/NotoSansMeeteiMayek-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7504 7430 179:25 /fonts/NotoSansMongolian-Regular.ttf /system/fonts/NotoSansMongolian-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7505 7430 179:25 /fonts/NotoSansMyanmar-Bold.ttf /system/fonts/NotoSansMyanmar-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7506 7430 179:25 /fonts/NotoSansMyanmar-Regular.ttf /system/fonts/NotoSansMyanmar-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7507 7430 179:25 /fonts/NotoSansMyanmarUI-Bold.ttf /system/fonts/NotoSansMyanmarUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7508 7430 179:25 /fonts/NotoSansMyanmarUI-Regular.ttf /system/fonts/NotoSansMyanmarUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7509 7430 179:25 /fonts/NotoSansNKo-Regular.ttf /system/fonts/NotoSansNKo-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7510 7430 179:25 /fonts/NotoSansNewTaiLue-Regular.ttf /system/fonts/NotoSansNewTaiLue-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7511 7430 179:25 /fonts/NotoSansOlChiki-Regular.ttf /system/fonts/NotoSansOlChiki-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7512 7430 179:25 /fonts/NotoSansOriya-Bold.ttf /system/fonts/NotoSansOriya-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7513 7430 179:25 /fonts/NotoSansOriya-Regular.ttf /system/fonts/NotoSansOriya-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7514 7430 179:25 /fonts/NotoSansOriyaUI-Bold.ttf /system/fonts/NotoSansOriyaUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7515 7430 179:25 /fonts/NotoSansOriyaUI-Regular.ttf /system/fonts/NotoSansOriyaUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7516 7430 179:25 /fonts/NotoSansRejang-Regular.ttf /system/fonts/NotoSansRejang-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7517 7430 179:25 /fonts/NotoSansSaurashtra-Regular.ttf /system/fonts/NotoSansSaurashtra-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7518 7430 179:25 /fonts/NotoSansSinhala-Bold.ttf /system/fonts/NotoSansSinhala-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7519 7430 179:25 /fonts/NotoSansSinhala-Regular.ttf /system/fonts/NotoSansSinhala-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7520 7430 179:25 /fonts/NotoSansSundanese-Regular.ttf /system/fonts/NotoSansSundanese-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7521 7430 179:25 /fonts/NotoSansSylotiNagri-Regular.ttf /system/fonts/NotoSansSylotiNagri-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7522 7430 179:25 /fonts/NotoSansSymbols-Regular-Subsetted.ttf /system/fonts/NotoSansSymbols-Regular-Subsetted.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7523 7430 179:25 /fonts/NotoSansSymbols-Regular-Subsetted2.ttf /system/fonts/NotoSansSymbols-Regular-Subsetted2.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7524 7430 179:25 /fonts/NotoSansSyriacEstrangela-Regular.ttf /system/fonts/NotoSansSyriacEstrangela-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7525 7430 179:25 /fonts/NotoSansTagbanwa-Regular.ttf /system/fonts/NotoSansTagbanwa-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7526 7430 179:25 /fonts/NotoSansTaiLe-Regular.ttf /system/fonts/NotoSansTaiLe-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7527 7430 179:25 /fonts/NotoSansTaiTham-Regular.ttf /system/fonts/NotoSansTaiTham-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7528 7430 179:25 /fonts/NotoSansTaiViet-Regular.ttf /system/fonts/NotoSansTaiViet-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7529 7430 179:25 /fonts/NotoSansTamil-Bold.ttf /system/fonts/NotoSansTamil-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7530 7430 179:25 /fonts/NotoSansTamil-Regular.ttf /system/fonts/NotoSansTamil-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7531 7430 179:25 /fonts/NotoSansTamilUI-Bold.ttf /system/fonts/NotoSansTamilUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7532 7430 179:25 /fonts/NotoSansTamilUI-Regular.ttf /system/fonts/NotoSansTamilUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7533 7430 179:25 /fonts/NotoSansTelugu-Bold.ttf /system/fonts/NotoSansTelugu-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7534 7430 179:25 /fonts/NotoSansTelugu-Regular.ttf /system/fonts/NotoSansTelugu-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7535 7430 179:25 /fonts/NotoSansTeluguUI-Bold.ttf /system/fonts/NotoSansTeluguUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7536 7430 179:25 /fonts/NotoSansTeluguUI-Regular.ttf /system/fonts/NotoSansTeluguUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7537 7430 179:25 /fonts/NotoSansThaana-Bold.ttf /system/fonts/NotoSansThaana-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7538 7430 179:25 /fonts/NotoSansThaana-Regular.ttf /system/fonts/NotoSansThaana-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7539 7430 179:25 /fonts/NotoSansThai-Bold.ttf /system/fonts/NotoSansThai-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7540 7430 179:25 /fonts/NotoSansThai-Regular.ttf /system/fonts/NotoSansThai-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7541 7430 179:25 /fonts/NotoSansThaiUI-Bold.ttf /system/fonts/NotoSansThaiUI-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7542 7430 179:25 /fonts/NotoSansThaiUI-Regular.ttf /system/fonts/NotoSansThaiUI-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7543 7430 179:25 /fonts/NotoSansTibetan-Bold.ttf /system/fonts/NotoSansTibetan-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7544 7430 179:25 /fonts/NotoSansTibetan-Regular.ttf /system/fonts/NotoSansTibetan-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7545 7430 179:25 /fonts/NotoSansTifinagh-Regular.ttf /system/fonts/NotoSansTifinagh-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7546 7430 179:25 /fonts/NotoSansVai-Regular.ttf /system/fonts/NotoSansVai-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7547 7430 179:25 /fonts/NotoSansYi-Regular.ttf /system/fonts/NotoSansYi-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7548 7430 179:25 /fonts/NotoSerif-Bold.ttf /system/fonts/NotoSerif-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7549 7430 179:25 /fonts/NotoSerif-BoldItalic.ttf /system/fonts/NotoSerif-BoldItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7550 7430 179:25 /fonts/NotoSerif-Italic.ttf /system/fonts/NotoSerif-Italic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7551 7430 179:25 /fonts/NotoSerif-Regular.ttf /system/fonts/NotoSerif-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7552 7430 179:25 /fonts/Padauk.ttf /system/fonts/Padauk.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7553 7430 179:25 /fonts/Roboto-Black.ttf /system/fonts/Roboto-Black.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7554 7430 179:25 /fonts/Roboto-BlackItalic.ttf /system/fonts/Roboto-BlackItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7555 7430 179:25 /fonts/Roboto-Bold.ttf /system/fonts/Roboto-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7556 7430 179:25 /fonts/Roboto-BoldItalic.ttf /system/fonts/Roboto-BoldItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7557 7430 179:25 /fonts/Roboto-Italic.ttf /system/fonts/Roboto-Italic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7558 7430 179:25 /fonts/Roboto-Light.ttf /system/fonts/Roboto-Light.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7559 7430 179:25 /fonts/Roboto-LightItalic.ttf /system/fonts/Roboto-LightItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7560 7430 179:25 /fonts/Roboto-Medium.ttf /system/fonts/Roboto-Medium.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7561 7430 179:25 /fonts/Roboto-MediumItalic.ttf /system/fonts/Roboto-MediumItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7562 7430 179:25 /fonts/Roboto-Regular.ttf /system/fonts/Roboto-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7563 7430 179:25 /fonts/Roboto-Thin.ttf /system/fonts/Roboto-Thin.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7564 7430 179:25 /fonts/Roboto-ThinItalic.ttf /system/fonts/Roboto-ThinItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7565 7430 179:25 /fonts/RobotoCondensed-Bold.ttf /system/fonts/RobotoCondensed-Bold.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7566 7430 179:25 /fonts/RobotoCondensed-BoldItalic.ttf /system/fonts/RobotoCondensed-BoldItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7567 7430 179:25 /fonts/RobotoCondensed-Italic.ttf /system/fonts/RobotoCondensed-Italic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7568 7430 179:25 /fonts/RobotoCondensed-Light.ttf /system/fonts/RobotoCondensed-Light.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7569 7430 179:25 /fonts/RobotoCondensed-LightItalic.ttf /system/fonts/RobotoCondensed-LightItalic.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7570 7430 179:25 /fonts/RobotoCondensed-Regular.ttf /system/fonts/RobotoCondensed-Regular.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7571 7430 179:25 /fonts/ZawgyiOne.ttf /system/fonts/ZawgyiOne.ttf ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7572 7428 179:27 /adb/modules/luckypatcher/system/framework/arm/boot-conscrypt.art /system/framework/arm/boot-conscrypt.art rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7573 7428 179:27 /adb/modules/luckypatcher/system/framework/arm/boot-conscrypt.oat /system/framework/arm/boot-conscrypt.oat rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7574 7428 179:27 /adb/modules/luckypatcher/system/framework/arm/boot.art /system/framework/arm/boot.art rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7575 7428 179:27 /adb/modules/luckypatcher/system/framework/arm/boot.oat /system/framework/arm/boot.oat rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7576 7428 179:27 /adb/modules/luckypatcher/system/framework/arm64/boot-conscrypt.art /system/framework/arm64/boot-conscrypt.art rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7577 7428 179:27 /adb/modules/luckypatcher/system/framework/arm64/boot-conscrypt.oat /system/framework/arm64/boot-conscrypt.oat rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7578 7428 179:27 /adb/modules/luckypatcher/system/framework/arm64/boot.art /system/framework/arm64/boot.art rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7579 7428 179:27 /adb/modules/luckypatcher/system/framework/arm64/boot.oat /system/framework/arm64/boot.oat rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7580 7428 179:27 /adb/modules/luckypatcher/system/framework/oat/arm64/services.odex /system/framework/oat/arm64/services.odex rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7581 7428 0:26 / /system/xbin rw,relatime master:28 - tmpfs tmpfs rw,seclabel
+7582 7581 179:27 /adb/modules/BuiltIn-BusyBox/system/xbin/busybox /system/xbin/busybox rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7583 7581 179:25 /xbin/dexlist /system/xbin/dexlist ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7584 7581 179:25 /xbin/tcpdump /system/xbin/tcpdump ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7585 7428 0:16 /.magisk/zygisk/app_process32 /system/bin/app_process32 rw,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+7586 7428 0:16 /.magisk/zygisk/app_process64 /system/bin/app_process64 rw,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+7587 7428 0:16 /.magisk/zygisk/magisk32 /system/bin/screencap rw,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+7588 7428 0:16 /.magisk/zygisk/magisk64 /system/bin/bootanimation rw,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+7589 7405 179:27 / /data rw,nosuid,nodev,noatime master:19 - f2fs /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/userdata rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7590 7589 179:27 /adb/Music/base.apk /data/app/com.google.android.apps.youtube.music-3/base.apk rw,nosuid,nodev,noatime master:19 - f2fs /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/userdata rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7591 7589 179:27 /adb/Vanced/base.apk /data/app/com.google.android.youtube-2/base.apk rw,nosuid,nodev,noatime master:19 - f2fs /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/userdata rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7592 7405 179:26 / /cache rw,nosuid,nodev,noatime master:20 - f2fs /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/cache rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7593 7405 179:9 / /protect_f rw,nosuid,nodev,noatime master:21 - ext4 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/protect1 rw,seclabel,nodelalloc,noauto_da_alloc,commit=1,data=ordered
+7594 7405 179:10 / /protect_s rw,nosuid,nodev,noatime master:22 - ext4 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/protect2 rw,seclabel,nodelalloc,noauto_da_alloc,commit=1,data=ordered
+7595 7405 179:7 / /nvdata rw,nosuid,nodev,noatime master:23 - ext4 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/nvdata rw,seclabel,discard,noauto_da_alloc,data=ordered
+7596 7405 179:6 / /nvcfg rw,nosuid,nodev,noatime master:24 - ext4 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/nvcfg rw,seclabel,nodelalloc,noauto_da_alloc,commit=1,data=ordered
+7597 7405 0:16 / /sbin rw,relatime master:2 - tmpfs tmpfs rw,seclabel,mode=755
+7598 7597 179:25 / /sbin/.magisk/mirror/system ro,relatime master:25 - ext4 /sbin/.magisk/block/system ro,seclabel,data=ordered
+7599 7597 179:27 / /sbin/.magisk/mirror/data rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7600 7597 179:27 /adb/modules /sbin/.magisk/modules rw,relatime master:26 - f2fs /sbin/.magisk/block/data rw,seclabel,background_gc=on,discard,user_xattr,acl,inline_data,extent_cache,active_logs=6
+7601 7405 0:19 /runtime/write /storage rw,relatime master:16 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+7602 7601 0:29 / /storage/emulated rw,nosuid,nodev,noexec,noatime master:31 - sdcardfs /data/media rw,uid=1023,gid=1023,multiuser
+7603 7601 0:32 / /storage/0D2E-0768 rw,nosuid,nodev,noexec,noatime master:35 - sdcardfs /mnt/media_rw/0D2E-0768 rw,uid=1023,gid=1023
+7604 7601 0:19 /user/0 /storage/self rw,relatime master:16 - tmpfs tmpfs rw,seclabel,mode=755,gid=1000
+
+---Magisk Logs---
+ (-1)
+
+--------- beginning of system
+06-03 21:11:20.881  7245  7245 W ViewRootImpl[MainActivity]: Dropping event due to root view being removed: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=779.27844, y[0]=1171.129, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=249010, downTime=248985, deviceId=4, source=0x1002 }
+06-03 21:16:03.137  7245  7245 W ViewRootImpl[MainActivity]: Dropping event due to root view being removed: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=759.29694, y[0]=1123.154, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=3, eventTime=531256, downTime=531224, deviceId=4, source=0x1002 }
+--------- beginning of main
+06-03 21:36:29.640  7245  7341 I OpenGLRenderer: Initialized EGL, version 1.4
+06-03 21:36:29.643  7245  7341 I OpenGLRenderer: Already had program atlas...
+06-03 21:36:29.650  7245  7341 W libEGL  : [ANDROID_RECORDABLE] format: 1
+06-03 21:36:31.290  7245  7245 I greenpower: the fling duration 691
+06-03 21:36:34.644  7245  7245 I greenpower: the fling duration 427
+06-03 21:36:35.426  7245  7245 I greenpower: the fling duration 816
+
+---Manager Logs---
+2106751e (24315)
+
+--------- beginning of system
+06-03 21:11:20.881  7245  7245 W ViewRootImpl[MainActivity]: Dropping event due to root view being removed: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=779.27844, y[0]=1171.129, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=249010, downTime=248985, deviceId=4, source=0x1002 }
+06-03 21:16:03.137  7245  7245 W ViewRootImpl[MainActivity]: Dropping event due to root view being removed: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=759.29694, y[0]=1123.154, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=3, eventTime=531256, downTime=531224, deviceId=4, source=0x1002 }
+--------- beginning of main
+06-03 21:36:29.640  7245  7341 I OpenGLRenderer: Initialized EGL, version 1.4
+06-03 21:36:29.643  7245  7341 I OpenGLRenderer: Already had program atlas...
+06-03 21:36:29.650  7245  7341 W libEGL  : [ANDROID_RECORDABLE] format: 1
+06-03 21:36:31.290  7245  7245 I greenpower: the fling duration 691
+06-03 21:36:34.644  7245  7245 I greenpower: the fling duration 427
+06-03 21:36:35.426  7245  7245 I greenpower: the fling duration 816
+06-03 21:36:41.738  7245  7245 I greenpower: the fling duration 418
+06-03 21:36:42.669  7245  7245 I greenpower: the fling duration 479
+06-03 21:36:43.431  7245  7245 I greenpower: the fling duration 498
+06-03 21:36:43.952  7245  7245 I greenpower: the fling duration 679
+06-03 21:36:46.041  7245  7245 I greenpower: the fling duration 408
+06-03 21:36:46.528  7245  7245 I greenpower: the fling duration 904
+06-03 21:36:48.705 14545 14545 W DefaultDispatch: type=1400 audit(0.0:299): avc: denied { search } for name="bin" dev="mmcblk0p27" ino=149 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:wland_data_file:s0 tclass=dir permissive=0
+06-03 21:36:48.757 14547 14547 W DefaultDispatch: type=1400 audit(0.0:300): avc: denied { search } for name="bin" dev="mmcblk0p27" ino=149 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:wland_data_file:s0 tclass=dir permissive=0
